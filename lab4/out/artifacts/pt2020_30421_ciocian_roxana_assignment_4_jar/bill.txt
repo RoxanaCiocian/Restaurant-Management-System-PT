@@ -1,0 +1,7 @@
+BILL
+Order id: 1
+Order date: 12.12.2020
+Table number: 1
+Products ordered 
+MenuItem{name='mere', price=3.0}, MenuItem{name='prune', price=3.0}, 
+Total price: 6.0
